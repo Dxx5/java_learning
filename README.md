@@ -1,6 +1,5 @@
 # 📚 我的 Java 学习之路
 
-> 从零开始，记录每一个代码进步！
 
 ## 🗂️ 项目结构
 
@@ -12,9 +11,8 @@
 | `03-java-web` | Web 项目实践 | Servlet + MySQL |
 | `04-spring-boot` | Spring Boot 入门 | REST API + MyBatis |
 
-## 🚀 如何运行？
-进入对应目录，用 IntelliJ IDEA 打开即可。
+
 
 ## 📝 作者
-- 学校：XXX 大学
-- 目标：成为后端工程师 💪
+- 学校：河南工业大学
+- 目标：成为后端工程师 
